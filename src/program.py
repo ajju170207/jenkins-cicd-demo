@@ -1,2 +1,3 @@
 print("Hello! Jenkins CI/CD Pipeline")
-print("Build executed successfully.")
+print("Code updated successfully!")
+print("Automatic build triggered by GitHub changes.")
